@@ -13,3 +13,9 @@ def multiplication(a,b):
     return b
 
 print("multiplication is")
+
+def divison(a,b):
+    e=a/b
+    return a
+
+print("divison is")
